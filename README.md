@@ -1,5 +1,5 @@
 # Budgety
-<strong>A simple budget app made using HTML5, CSS3 &amp; JavaScript. The app can be used [here](https://ravi8972.github.io/budget-Checker/).</strong>
+<strong>A simple budget app made using HTML5, CSS3 &amp; JavaScript. The app can be used [here](https://ravi8972.github.io/Budget-checker/).</strong>
 
 ### How to use Budgety
 - Plus sign (+) signifies "Income" & the Minus sign (-) signifies "Expense"
